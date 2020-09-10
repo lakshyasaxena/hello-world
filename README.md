@@ -1,5 +1,9 @@
 # hello-world
-/play bell
+
+:metal:
+:fu:
+:runner:
+:running:
 This is my first repository.
 The hello world guide provided is really useful.
 This is just to get familiar with the software.
