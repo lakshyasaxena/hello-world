@@ -1,5 +1,5 @@
 # hello-world
-:/play bell:
+
 :runner:
 :running:
 This is my first repository.
