@@ -1,7 +1,5 @@
 # hello-world
 
-:metal:
-:fu:
 :runner:
 :running:
 This is my first repository.
